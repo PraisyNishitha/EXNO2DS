@@ -1,4 +1,4 @@
-# EXNO2DS
+# EXNO:2DS
 # NAME : Praisy nishitha
 # ref no : 212224100042
 # AIM:
